@@ -1,2 +1,2 @@
 # BTS-JavaScript
-<br> here i will be Learning How JasvaSript works Behind the Scene....
+<br> here i will be Learning How JasvaSript works Behind the Scene
