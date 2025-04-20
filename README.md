@@ -1,7 +1,5 @@
 # BTS-JavaScript
-<<<<<<< HEAD
-<br> here i will be Learning How JasvaSript works Behind the Scene
-=======
+
 <h1> 👩‍💻 How JavaScript Works Behind the Scenes 🧠🌱 </h1>
 <br> Hellooo Everyone! It's me Khushi a Curious Kid!
 Welcome to my little corner of the JavaScript and me series💗
@@ -20,4 +18,4 @@ This is me trying to understand what happens under the hood... and trust me, it'
 
 https://github.com/user-attachments/assets/10245054-eee7-449f-bb56-cb743194a08b
 
->>>>>>> e196fcc1e3e44d04fc18c0517e98f1a5598d7c6b
+<!-- >>>>>>> e196fcc1e3e44d04fc18c0517e98f1a5598d7c6b -->
